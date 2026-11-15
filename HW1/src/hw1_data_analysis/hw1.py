@@ -1,7 +1,7 @@
 import pandas as pd 
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("bicycle_data.csv")
+df = pd.read_csv("data/bicycle_data.csv")
 print(df.columns)
 
 
