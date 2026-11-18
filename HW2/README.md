@@ -1,0 +1,1 @@
+I mainly used the tutorial instructions and trial/error to solve this homework. I enjoyed the game and thought it was a helpful way to learn git commands while allowing room for error/mistakes.
